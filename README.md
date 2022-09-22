@@ -1,4 +1,4 @@
-# Random IPv4/IPv6/Mac Address Generator 🌐
+# Random IPv4/IPv6/Mac Address Generator (With Python) 🌐
 Randomly Generate IPv4/IPv6/Mac Addresses with Python. Done originally as a class project but decided to put it here, cuz why not?
 
 # Demo 🎁
