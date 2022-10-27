@@ -76,7 +76,7 @@ def main():
         print("[1] IPv4 Address")
         print("[2] IPv6 Address")
         print("[3] Mac Address")
-        print("[4] Exit.")
+        print("[4] Exit")
         choice = input("[Option]: ")
 
         if choice == "1":
